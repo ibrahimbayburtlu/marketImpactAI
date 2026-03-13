@@ -1,0 +1,36 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "sector": "Automotive",
+      "industry": "Electric Vehicles and Clean Energy",
+      "country": "United States",
+      "description": "Tesla is an electric vehicle and clean energy company known for EV manufacturing, battery technology, and autonomous driving systems. The company also develops energy storage solutions and solar energy products."
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Software and Cloud Computing",
+      "country": "United States",
+      "description": "Microsoft is a global technology company known for software products such as Windows and Office, as well as its cloud computing platform Azure. The company is also heavily investing in artificial intelligence and enterprise technologies."
+    },
+    {
+      "name": "Google",
+      "ticker": "GOOGL",
+      "sector": "Technology",
+      "industry": "Internet Services and Artificial Intelligence",
+      "country": "United States",
+      "description": "Google, a subsidiary of Alphabet Inc., is a technology company focused on internet services, search engines, digital advertising, cloud computing, and artificial intelligence technologies."
+    },
+    {
+      "name": "Koç Holding",
+      "ticker": "KCHOL.IS",
+      "sector": "Conglomerate",
+      "industry": "Energy, Automotive, Finance and Consumer Goods",
+      "country": "Turkey",
+      "description": "Koç Holding is one of the largest conglomerates in Turkey, operating in sectors such as energy, automotive, finance, and consumer goods. Major subsidiaries include companies like Ford Otosan, Tüpraş, and Arçelik."
+    }
+  ]
+}
